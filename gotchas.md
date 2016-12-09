@@ -1,4 +1,3 @@
----
 <h1 align="center">Powershell Gotchas</h1>
 
 [↖︎ Back to Index](index.html)
