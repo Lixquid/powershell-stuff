@@ -3,4 +3,5 @@
 A small knowledgebase of Powershell oddities and tricks.
 
 ### [Gotchas](gotchas.html)
+
 ### [Tricks](tricks.html)
