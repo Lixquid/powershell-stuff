@@ -44,7 +44,7 @@
    # *No Output*
    ```
 
-7. By Default, Powershell error do not halt execution.
+7. By Default, Powershell errors do not halt execution.
 
    ``` powershell
    > asdf; echo 5
